@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xana.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["F7:46:DE:81:0D:C7:42:00:72:FB:FA:2D:DD:54:1E:15:E0:3E:A7:CA:81:F9:18:23:8B:16:2E:37:7C:E8:F7:1B"]
+    }
+  }]
+  
